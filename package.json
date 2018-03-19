@@ -15,25 +15,23 @@
         "font-awesome",
         "webpack"
     ],
-	"author": {
-		"name": "Tamás Demeter-Haludka"
-	},
+    "author": {
+        "name": "Tamás Demeter-Haludka"
+    },
     "contributors": [
-		{
-			"name": "Gowrav Shekar",
-			"url": "@gowravshekar"
-		}
-	],
+        {
+            "name": "Gowrav Shekar",
+            "url": "@gowravshekar"
+        }
+    ],
     "license": "MIT",
     "bugs": {
         "url": "https://github.com/tamasd/font-awesome-webpack2/issues"
     },
-    "dependencies": {
-        "css-loader": "~0.17.0",
-        "less-loader": "~2.2.0",
-        "style-loader": "~0.12.3"
-    },
     "peerDependencies": {
+        "css-loader": "~0.28.10",
+        "less-loader": "~4.1.0",
+        "style-loader": "~0.20.3",
         "font-awesome": ">=4.3.0"
     },
     "readme": "",
